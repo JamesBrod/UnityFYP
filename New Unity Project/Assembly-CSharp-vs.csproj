@@ -46,13 +46,11 @@
   <ItemGroup>
      <Compile Include="Assets\InfluenceMapping.cs" />
      <Compile Include="Assets\Scripts\Connection.cs" />
-     <Compile Include="Assets\Scripts\CoverNode.cs" />
      <Compile Include="Assets\Scripts\CurrentNode.cs" />
      <Compile Include="Assets\Scripts\Heuristic.cs" />
      <Compile Include="Assets\Scripts\NavAgent.cs" />
      <Compile Include="Assets\Scripts\NavAgentEnemy.cs" />
      <Compile Include="Assets\Scripts\NavMeshGenerator.cs" />
-     <Compile Include="Assets\Scripts\NavigationArea.cs" />
      <Compile Include="Assets\Scripts\Node.cs" />
      <Compile Include="Assets\Scripts\NodeRecord.cs" />
      <Compile Include="Assets\Scripts\PathFinder.cs" />
